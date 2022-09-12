@@ -1,6 +1,8 @@
 <h1 align = "center"> 🐈‍⬛ Prazer, <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> Yudi</a>! 🐈‍⬛ </h1>
 <br/>
+<div align="center">
 <img src="/computador.gif" align="center">
+</div>
 <br/>
 <h1 align = "center">Sobre mim:</h1>
 <br/>
