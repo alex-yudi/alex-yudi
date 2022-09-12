@@ -1,8 +1,8 @@
 <h1 align = "center"> 🦊 Prazer, <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> Yudi</a>! 🦊</h1>
-
-<img src="/computador.gif" align="center">
-<h1 align = "center">Sobre mim:</h1>
 <br/>
+<img src="/computador.gif" align="center">
+<br/>
+<h1 align = "center">Sobre mim:</h1>
 <br/>
 <img src="/hirotaka.gif" align="right">
 
