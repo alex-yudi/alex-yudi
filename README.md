@@ -1,4 +1,4 @@
-<h1 align = "center"> 🦊 Prazer, <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> Yudi</a>! 🦊</h1>
+<h1 align = "center"> :wolf: Prazer, <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> Yudi</a>! :wolf: </h1>
 <br/>
 <img src="/computador.gif" align="center">
 <br/>
