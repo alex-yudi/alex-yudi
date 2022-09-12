@@ -4,7 +4,7 @@
 <br/>
 
 ## <center> Sobre mim:
-<div align="center">
+### Atualmente Aprendendo:
 - Tenho 26 anos e atualmente sou estudante de DDS na <a href="https://cubos.academy/" target="_blank"> Cubos Academy </a> com previsão de conclusão de curso para abril/2023.
 </div>
 
