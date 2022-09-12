@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 <h1 align = "center"> 🦊 Prazer, <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> Yudi</a>! 🦊</h1>
-=======
-# <center>  🦊 Prazer, [Yudi](https://www.linkedin.com/in/alex-yudi/)! 🦊
-<center>  ![](computador.gif)
-<br/>
-<br/>
->>>>>>> 22816c20b35e9dcecc9c5ed4ded81224cba1ace0
 
 <img src="/computador.gif" align="center">
 <br/>
@@ -19,7 +12,6 @@
 
 <img src="/hirotaka.gif" align="right">
 
-<<<<<<< HEAD
 <div align="left">     
       <h3> Atualmente Aprendendo: </h3>
       <ul>
@@ -27,9 +19,3 @@
       <li> Javascript </li>
       </ul>
 </div>
-=======
-
-### Atualmente Aprendendo:
-  - HTML e CSS
-  - Javascript
->>>>>>> 22816c20b35e9dcecc9c5ed4ded81224cba1ace0
