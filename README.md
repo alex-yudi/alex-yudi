@@ -4,10 +4,12 @@
 <br/>
 
 ## <center> Sobre mim:
-![](hirotaka.gif)
-<div align="right">
+<div align="left">
 - Tenho 26 anos e atualmente sou estudante de DDS na [Cubos Academy](https://cubos.academy/) com previsão de conclusão de curso para abril/2023.
 </div>
+
+ <img src="/hirotaka.gif" align="left">
+
 
 ### Atualmente Aprendendo:
   - HTML e CSS
