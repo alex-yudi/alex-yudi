@@ -17,3 +17,11 @@
       <li> Javascript </li>
       </ul>
 </div>
+
+<div align="left">     
+      <h3> Hobbies </h3>
+      <ul>
+      <li> Animes, Light Novels e Mangás <s>(o otaku completo)</s></li>
+      <li> <a href="https://www.twitch.tv/oxyggedon"> Streamar </a> </li>
+      </ul>
+</div>
