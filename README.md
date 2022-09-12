@@ -15,6 +15,7 @@
       <ul>
       <li> HTML e CSS </li>
       <li> Javascript </li>
+      <li> Figma </li>
       </ul>
 </div>
 
