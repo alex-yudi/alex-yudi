@@ -5,10 +5,10 @@
 
 ## <center> Sobre mim:
 <div align="left">
-- Tenho 26 anos e atualmente sou estudante de DDS na [Cubos Academy](https://cubos.academy/) com previsão de conclusão de curso para abril/2023.
+- Tenho 26 anos e atualmente sou estudante de DDS na <a href="https://cubos.academy/" target="_blank"> Cubos Academy </a> com previsão de conclusão de curso para abril/2023.
 </div>
 
- <img src="/hirotaka.gif" align="right">
+<img src="/hirotaka.gif" align="right">
 
 
 ### Atualmente Aprendendo:
