@@ -1,5 +1,5 @@
 # <center>  🦊 Prazer, [Yudi](https://www.linkedin.com/in/alex-yudi/)! 🦊
-![](computador.gif)
+<center>  ![](computador.gif)
 <br/>
 <br/>
 
