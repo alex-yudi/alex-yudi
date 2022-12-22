@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=alex-yudi);
+![](https://komarev.com/ghpvc/?username=alex-yudi)
 <h1 align = "center"> 🐈‍⬛ Prazer, <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> Yudi</a>! 🐈‍⬛ </h1>
 <br/>
 <div align="center">
