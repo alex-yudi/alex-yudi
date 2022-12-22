@@ -28,3 +28,7 @@
       <li> <a href="https://www.twitch.tv/oxyggedon"> Streamar </a> </li>
       </ul>
 </div>
+
+
+![](https://komarev.com/ghpvc/?username=alex-yudi);
+
