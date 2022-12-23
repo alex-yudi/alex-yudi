@@ -26,7 +26,7 @@
       <h3> Hobbies </h3>
       <ul>
       <li> Animes, Light Novels e Mangás <s>(o otaku completo)</s></li>
-      <li> <a href="https://www.twitch.tv/oxyggedon"> Streamar </a> </li>
+      <li> <a href="https://www.twitch.tv/yudi095"> Streamar </a> </li>
       </ul>
 </div>
 
