@@ -10,7 +10,7 @@
 <img src="/hirotaka.gif" align="right">
 
 <div align="left>
- <p align="center">Tenho 26 anos e atualmente sou estudante de DDS na <a href="https://cubos.academy/" target="_blank"> Cubos Academy </a> com previsão de conclusão de curso para abril/2023.</p>
+ <p align="center">Tenho 27 anos e atualmente sou estudante de DDS na <a href="https://cubos.academy/" target="_blank"> Cubos Academy </a> com previsão de conclusão de curso para abril/2023.</p>
 </div>
 
 <div align="left">     
@@ -18,7 +18,7 @@
       <ul>
       <li> HTML e CSS </li>
       <li> Javascript </li>
-      <li> Figma </li>
+      <li> Node.js </li>
       </ul>
 </div>
 
