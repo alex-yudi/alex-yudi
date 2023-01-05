@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=alex-yudi)
 
-[![wakatime](https://wakatime.com/badge/user/2b7daf4e-301b-4513-8851-88e73f7aa6b1.svg)](https://wakatime.com/@2b7daf4e-301b-4513-8851-88e73f7aa6b1)
+<a href="https://wakatime.com/@2b7daf4e-301b-4513-8851-88e73f7aa6b1"><img src="https://wakatime.com/badge/user/2b7daf4e-301b-4513-8851-88e73f7aa6b1.svg" alt="Total time coded since Dec 28 2022" /></a>
 
 <h1 align = "center"> 🐈‍⬛ Prazer, <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> Yudi</a>! 🐈‍⬛ </h1>
 <br/>
