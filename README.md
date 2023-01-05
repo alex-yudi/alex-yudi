@@ -21,7 +21,9 @@
       <ul>
       <li> HTML e CSS </li>
       <li> Javascript </li>
-      <li> Node.js </li>
+      <li> Node.js com Express </li>
+      <li> ReactJS </li>
+      <li> Versionamento (GIT e Github) </li>
       </ul>
 </div>
 
