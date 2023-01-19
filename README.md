@@ -17,7 +17,7 @@
 </div>
 
 <div align="left">     
-      <h3> Atualmente Aprendendo: </h3>
+      <h3> Tecnologias que tenho conhecimento: </h3>
       <ul>
       <li> HTML e CSS </li>
       <li> Javascript </li>
