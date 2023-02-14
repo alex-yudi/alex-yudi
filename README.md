@@ -13,7 +13,7 @@
 <img src="/hirotaka.gif" align="right">
 
 <div align="left>
- <p align="center">Tenho 28 anos e atualmente sou estudante de DDS na <a href="https://cubos.academy/" target="_blank"> Cubos Academy </a> com previsão de conclusão de curso para abril/2023.</p>
+ <p align="center">Desenvolvedor Full Stack, atualmente estudante do curso de Desenvolvimento de Software na <a href="https://cubos.academy/" target="_blank"> Cubos Academy </a> com previsão de conclusão de curso para abril/2023.</p>
 </div>
 
 <div align="left">     
@@ -21,6 +21,7 @@
       <ul>
       <li> HTML e CSS </li>
       <li> Javascript </li>
+      <li> Typescript </li>
       <li> Bootstrap </li>
       <li> Node.js com Express </li>
       <li> ReactJS </li>
