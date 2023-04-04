@@ -28,6 +28,8 @@
       <li> Versionamento (GIT e Github) </li>
       <li> SQL e PostgreSQL </li>
       </ul>
+                 
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alex-yudi&layout=compact'/>
 </div>
 
 <div align="left">     
