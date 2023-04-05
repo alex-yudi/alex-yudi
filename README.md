@@ -20,7 +20,7 @@
 <img src="/hirotaka.gif" align="right">
 
 <div align="left">     
-      <h3> Tecnologias que tenho conhecimento: </h3>
+      <h3> Tecnologias que utilizo: </h3>
       <ul>
       <li> HTML e CSS </li>
       <li> Javascript </li>
