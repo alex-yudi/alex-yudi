@@ -29,6 +29,7 @@
       <li> Typescript </li>
       <li> Node.js com Express </li>
       <li> Jest (testes) </li>
+      <li> Insomnia </li>
       <li> ReactJS </li>
       <li> Versionamento (GIT e Github) </li>
       <li> SQL e PostgreSQL </li>
