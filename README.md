@@ -13,7 +13,7 @@
 
 
 <div align="center">
- <p align="center">Desenvolvedor Full Stack, através do curso de Desenvolvimento de Software na <a href="https://cubos.academy/" target="_blank"> Cubos Academy</a>, com foco em atividades práticas e desenvolvimento, também, de softskills cmo comunicação não-violenta, trabalho em equipe, metodologias ágeis, resolução de conflitos etc. </p>
+ <p align="center">Desenvolvedor Full Stack, através do curso de Desenvolvimento de Software na <a href="https://cubos.academy/" target="_blank"> Cubos Academy</a>, com foco em atividades práticas e aprendizado de softskills, como comunicação não-violenta, trabalho em equipe, metodologias ágeis, resolução de conflitos etc. </p>
   <p align="center">Possuo os conhecimentos para desenvolver aplicações tanto na parte do back-end quanto do fron-ent, fazer suas integrações e, inclusive, fazer o deploy delas.</p>
    <p align="center">Em meu portfólio possuo projetos construídos do zero até o deploy, sinta-se livre para olhar meus repositórios e, caso deseje, pode dar uma checada no meu <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> LinkedIn</a>, pois por lá costumo fazer postagens deles.</p>
 </div>
