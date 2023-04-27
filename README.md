@@ -1,9 +1,17 @@
-![](https://komarev.com/ghpvc/?username=alex-yudi)
-
-<a href="https://wakatime.com/@2b7daf4e-301b-4513-8851-88e73f7aa6b1" target="_blank"><img src="https://wakatime.com/badge/user/2b7daf4e-301b-4513-8851-88e73f7aa6b1.svg" alt="Total time coded since Dec 28 2022" /></a>
-
+<div>
+ <div align='left'>
+  <div> 
+<img src='https://komarev.com/ghpvc/?username=alex-yudi'/> 
+   </div>
+  <div>
+  <a href="https://wakatime.com/@2b7daf4e-301b-4513-8851-88e73f7aa6b1" target="_blank"><img src="https://wakatime.com/badge/user/2b7daf4e-301b-4513-8851-88e73f7aa6b1.svg" alt="Total time coded since Dec 28 2022" /></a>
+ </div>
+  </div>
+ 
+ <div align='right'>
 <img src='https://raw.githubusercontent.com/alex-yudi/github-stats/master/generated/overview.svg#gh-dark-mode-only' />
-
+ </div>
+</div>
 
 <h1 align = "center"> 🐈‍⬛ Prazer, <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> Yudi</a>! 🐈‍⬛ </h1>
 <br/>
@@ -22,9 +30,11 @@
 </div>
 
 <br/>
-<img src="/hirotaka.gif" align="right">
-
-<div align="left">     
+<div>
+  <div>
+<img align='right' src="/hirotaka.gif">
+</div>
+ <div align="left">     
       <h3> Tecnologias que utilizo: </h3>
       <ul>
       <li> HTML e CSS </li>
@@ -37,8 +47,11 @@
       <li> Versionamento (GIT e Github) </li>
       <li> SQL e PostgreSQL </li>
       </ul>
-</div>           
+</div>      
+ 
 
+     
+</div>
 <img src='https://raw.githubusercontent.com/alex-yudi/github-stats/master/generated/languages.svg#gh-dark-mode-only' />
 
 
