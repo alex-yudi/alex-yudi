@@ -36,6 +36,9 @@
       </ul>
 </div>           
 
+<img src='https://raw.githubusercontent.com/alex-yudi/github-stats/master/generated/languages.svg#gh-dark-mode-only' />
+
+
  <div>
       <h3> Hobbies </h3>
       <ul>
