@@ -53,7 +53,6 @@
       <ul>
       <li> React Native</li>
       <li> Python </li>
-      <li> Typescript </li>
       </ul>
 </div>      
  
