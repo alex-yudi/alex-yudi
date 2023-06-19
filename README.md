@@ -48,6 +48,14 @@
       <li> SQL e PostgreSQL </li>
       </ul>
 </div>      
+  <div align="left">     
+      <h3> Tecnologias sendo consolidadas: </h3>
+      <ul>
+      <li> React Native</li>
+      <li> Python </li>
+      <li> Typescript </li>
+      </ul>
+</div>      
  
 
      
