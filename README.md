@@ -42,8 +42,10 @@
       <li> Typescript </li>
       <li> Node.js com Express </li>
       <li> Jest (testes) </li>
+      <li> Swagger </li>
       <li> Insomnia </li>
       <li> ReactJS </li>
+      <li> Styles-components </li>
       <li> Versionamento (GIT e Github) </li>
       <li> SQL e PostgreSQL </li>
       </ul>
@@ -53,6 +55,7 @@
       <ul>
       <li> React Native</li>
       <li> Python </li>
+      <li> Nest </li>
       </ul>
 </div>      
  
