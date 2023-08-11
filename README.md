@@ -37,17 +37,17 @@
  <div align="left">     
       <h3> Tecnologias que utilizo: </h3>
       <ul>
-      <li> HTML e CSS </li>
-      <li> Javascript </li>
-      <li> Typescript </li>
-      <li> Node.js com Express </li>
-      <li> Jest (testes) </li>
-      <li> Swagger </li>
-      <li> Insomnia </li>
       <li> ReactJS </li>
+      <li> Node.js com Express </li>
+      <li> Typescript </li>
+      <li> Javascript </li>
       <li> Styles-components </li>
       <li> Versionamento (GIT e Github) </li>
       <li> SQL e PostgreSQL </li>
+      <li> Swagger </li>
+      <li> Jest (testes) </li>
+      <li> Insomnia </li>
+      <li> HTML e CSS </li>
       </ul>
 </div>      
   <div align="left">     
