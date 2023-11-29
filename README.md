@@ -41,8 +41,8 @@
       <li> Node.js com Express </li>
       <li> Typescript </li>
       <li> Javascript </li>
-      <li> Styles-components </li>
-      <li> Versionamento (GIT e Github) </li>
+      <li> Styled-components </li>
+      <li> Versionamento (GIT/Github/Gitlab) </li>
       <li> SQL e PostgreSQL </li>
       <li> Swagger </li>
       <li> Jest (testes) </li>
@@ -51,11 +51,12 @@
       </ul>
 </div>      
   <div align="left">     
-      <h3> Tecnologias sendo consolidadas: </h3>
+      <h3> Tecnologias/conhecimentos sendo consolidadas: </h3>
       <ul>
-      <li> React Native</li>
-      <li> Python </li>
-      <li> Nest </li>
+      <li> NextJS </li>
+      <li> Angular </li>
+      <li> Design Patterns / Arquitetura de projetos </li>
+      <li> Responsividade </li>
       </ul>
 </div>      
  
