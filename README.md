@@ -38,6 +38,7 @@
       <h3> Tecnologias que utilizo: </h3>
       <ul>
       <li> ReactJS </li>
+      <li> Vue.JS </li>
       <li> Node.js com Express </li>
       <li> Typescript </li>
       <li> Javascript </li>
