@@ -37,7 +37,7 @@
  <div align="left">     
       <h3> Tecnologias que utilizo: </h3>
       <ul>
-      <li> ReactJS </li>
+      <li> ReactJS / NextJS </li>
       <li> Vue.JS </li>
       <li> Node.js com Express </li>
       <li> Typescript </li>
@@ -54,7 +54,6 @@
   <div align="left">     
       <h3> Tecnologias/conhecimentos sendo consolidadas: </h3>
       <ul>
-      <li> NextJS </li>
       <li> Angular </li>
       <li> Design Patterns / Arquitetura de projetos </li>
       <li> Responsividade </li>
