@@ -55,6 +55,7 @@
       <h3> Tecnologias/conhecimentos sendo consolidadas: </h3>
       <ul>
       <li> Angular </li>
+      <li> Nest.Js </li>
       <li> Design Patterns / Arquitetura de projetos </li>
       <li> Responsividade </li>
       </ul>
