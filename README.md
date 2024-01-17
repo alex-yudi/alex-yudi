@@ -56,6 +56,7 @@
       <ul>
       <li> Angular </li>
       <li> Nest.Js </li>
+      <li> Cypress </li>
       <li> Design Patterns / Arquitetura de projetos </li>
       <li> Responsividade </li>
       </ul>
