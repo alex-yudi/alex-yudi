@@ -6,12 +6,12 @@ Desenvolvedor Frontend com experiência em criar aplicações modernas e respons
 
 ### 🚀 Tecnologias que utilizo:
 
-- **Frontend:** ReactJS, Next.js, Vue.js
+- **Frontend:** ReactJS, Next.js, Vue.js, HTML
 - **Backend:** Node.js com Express
 - **Linguagens:** TypeScript, JavaScript
 - **Banco de Dados:** SQL, PostgreSQL
-- **Estilização:** Styled-components, HTML, CSS, Tailwind
-- **Ferramentas:** Git/GitHub/GitLab, Insomnia, Swagger, Jest
+- **Estilização:** Styled-components, CSS, Tailwind
+- **Ferramentas:** Git/GitHub/GitLab, Insomnia, Swagger, Jest, Docker
 
 ### 📚 Tecnologias em aprendizado:
 
