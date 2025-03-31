@@ -1,7 +1,5 @@
-### 🐈‍⬛ Olá, eu sou o [Yudi](https://www.linkedin.com/in/alex-yudi/)!
-
 <div align="center">
-Sou Desenvolvedor Frontend com experiência em criar aplicações modernas e responsivas. No meu portfólio, você encontra projetos desenvolvidos do zero até o deploy. Dê uma olhada nos meus repositórios ou conecte-se comigo no <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> LinkedIn </a>!
+Desenvolvedor Frontend com experiência em criar aplicações modernas e responsivas. No meu portfólio, você encontra projetos desenvolvidos do zero até o deploy. Dê uma olhada nos meus repositórios ou conecte-se comigo no <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> LinkedIn </a>!
 </div>
 
 ---
