@@ -68,14 +68,6 @@
 <img src='https://raw.githubusercontent.com/alex-yudi/github-stats/master/generated/languages.svg#gh-dark-mode-only' />
 
 
- <div>
-      <h3> Hobbies </h3>
-      <ul>
-      <li> <a href="https://anilist.co/user/Ayu095/" target="_blank"> Animes, Light Novels e Mangás <s>(o otaku completo)</s> </a> </li>
-      <li> <a href="https://www.twitch.tv/yudi095" target="_blank"> Streamar </a> </li>
-      </ul>
- </div>
-
 <br/>
 <br/>
 <br/>
