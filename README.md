@@ -15,8 +15,8 @@ Desenvolvedor Frontend com experiência em criar aplicações modernas e respons
 
 ### 📚 Tecnologias em aprendizado:
 
-- Angular, Nest.js, Cypress
-- Design Patterns & Arquitetura
+- C#, .Net, Nest.js, Cypress
+- Design Patterns, Arquitetura e System Design
 - Responsividade avançada
 
 ---
