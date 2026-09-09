@@ -1,5 +1,9 @@
 <div align="center">
-Desenvolvedor Frontend com experiência em criar aplicações modernas e responsivas. No meu portfólio, você encontra projetos desenvolvidos do zero até o deploy. Dê uma olhada nos meus repositórios ou conecte-se comigo no <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> LinkedIn </a>!
+Sou um Desenvolvedor Fullstack focado em projetar, construir e sustentar aplicações de alta disponibilidade. Minha jornada técnica começou na construção de interfaces complexas e responsivas (React, Next.js, TypeScript), e hoje atuo diretamente com arquiteturas escaláveis em nuvem e sistemas distribuídos.
+
+Tenho forte vivência profissional no ecossistema AWS (Lambda, SQS, S3, RDS), lidando com arquiteturas orientadas a eventos, mensageria e microsserviços, utilizando tanto C#/.NET quanto o ecossistema Node.js.
+
+Dê uma olhada nos meus repositórios ou conecte-se comigo no <a href="https://www.linkedin.com/in/alex-yudi/" target="_blank"> LinkedIn </a>!
 </div>
 
 ---
